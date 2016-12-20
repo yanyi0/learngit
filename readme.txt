@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 Git is efficient.
-Qiuchuijin is a kind man.
+Qiuchuijin is a good man.
